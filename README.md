@@ -1,4 +1,4 @@
-<img width="295" height="498" alt="EatingEatingFoodGIF" src="https://github.com/user-attachments/assets/79b7230f-7662-4836-8c9c-0ed1ea449183" /># School_Nutrition_Programs_-_Meal_Reimbursement_Information_-_Program_Year_2024-2025
+# School_Nutrition_Programs_-_Meal_Reimbursement_Information_-_Program_Year_2024-2025
 ~ Project Overview
 # This project focuses on analyzing School Nutrition Program data to understand meal distribution, eligibility categories, and reimbursement trends across different schools.
 # The dashboard provides insights into:
